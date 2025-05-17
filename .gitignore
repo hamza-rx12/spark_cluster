@@ -1,0 +1,6 @@
+**/__pycache__
+**/.DS_Store
+**/data/output
+**/warehouse
+data/*
+scripts/*
